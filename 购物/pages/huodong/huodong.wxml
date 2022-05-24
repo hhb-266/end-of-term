@@ -1,0 +1,49 @@
+<view class="box">
+<view class="png"><image src="/image/蔬菜.png"></image></view>
+<view>
+<text class="wz">新鲜蔬菜，刚刚出土，童叟无欺！！！</text>
+<view style="white-space:pre-wrap">10000+人收藏</view>
+<text class="wz1">$10000.0</text>
+<view class="png1"><image src="/image/收藏2.png"></image></view>
+</view>
+</view>
+<view class="clear"></view>
+<view class="box">
+<view class="png"><image src="/image/蔬菜1.png"></image></view>
+<view>
+<text class="wz">新鲜蔬菜，刚刚出土，童叟无欺！！！</text>
+<view style="white-space:pre-wrap">10000+人收藏</view>
+<text  class="wz1">$10000.0</text>
+<view class="png1"><image src="/image/收藏2.png"></image></view>
+</view>
+</view>
+<view class="clear"></view>
+<view class="box">
+<view class="png"><image src="/image/蔬菜2.png"></image></view>
+<view>
+<text class="wz">新鲜蔬菜，刚刚出土，童叟无欺！！！</text>
+<view style="white-space:pre-wrap">10000+人收藏</view>
+<text  class="wz1">$10000.0</text>
+<view class="png1"><image src="/image/收藏2.png"></image></view>
+</view>
+</view>
+<view class="clear"></view>
+<view class="box">
+<view class="png"><image src="/image/蔬菜3.png"></image></view>
+<view>
+<text class="wz">新鲜蔬菜，刚刚出土，童叟无欺！！！</text>
+<view style="white-space:pre-wrap">10000+人收藏</view>
+<text class="wz1">$10000.0</text>
+<view class="png1"><image src="/image/收藏2.png"></image></view>
+</view>
+</view>
+<view class="clear"></view>
+<view class="box">
+<view class="png"><image src="/image/蔬菜4.png"></image></view>
+<view>
+<text class="wz">新鲜蔬菜，刚刚出土，童叟无欺！！！</text>
+<view style="white-space:pre-wrap">10000+人收藏</view>
+<text class="wz1">$10000.0</text>
+<view class="png1"><image src="/image/收藏2.png"></image></view>
+</view>
+</view>

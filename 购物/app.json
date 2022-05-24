@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/huodong/huodong",
+    "pages/wode/wode",
+    "pages/cart/cart",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#efefef",
+    "onReachBottomDistance": 50
+  },
+  "tabBar": {
+    "color": "#929292",
+    "backgroundColor": "#ffffff",
+    "selectedColor": "#69C3AA",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/shouye1.png",
+        "selectedIconPath": "image/shouye.png"
+      },
+      {
+        "pagePath": "pages/huodong/huodong",
+        "text": "收藏",
+        "iconPath": "image/收藏0_1.png",
+        "selectedIconPath": "image/收藏1.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "image/购物车.png",
+        "selectedIconPath": "image/购物车1.png"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "image/wode1.png",
+        "selectedIconPath": "image/wode.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
